@@ -1,0 +1,9 @@
+.displayContentBox {
+    background-color: red;
+    margin: 2em;
+    padding: 2em;
+    border-radius: 10px;
+    backgroud-image: url('../../assets/img/index-splash.jpg');
+    background-repeat: no-repeat;
+    background-size: auto;
+}
