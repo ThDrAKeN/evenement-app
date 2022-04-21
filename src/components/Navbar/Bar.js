@@ -8,7 +8,7 @@ class Bar extends Component {
     render() {
         return (
             <>
-                <Navbar className={"Navbar"} expand="lg">
+                <Navbar className={"Navbar"} expand="lg" fixed="top">
                     <Container>
                         <Navbar.Brand to={"/"}>
                             <Link to={"/"} className={"linkBrand"}>WeekPaul</Link>

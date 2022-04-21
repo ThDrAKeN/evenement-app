@@ -1,9 +1,76 @@
 .displayContentBox {
-    background-color: red;
     margin: 2em;
-    padding: 2em;
     border-radius: 10px;
-    backgroud-image: url('../../assets/img/index-splash.jpg');
-    background-repeat: no-repeat;
-    background-size: auto;
+    background-image: linear-gradient(0deg, rgba(248, 129, 129, 0.42), rgba(248, 129, 129, 0.42)), url("../../assets/img/index-splash.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    padding-top: 120px;
+    padding-bottom: 120px;
+    padding-left: 0;
+    padding-right: 0;
+    
+}
+
+
+.textTop {
+    text-align: left;
+    font-size: 60px;
+    font-weight: bold;
+    padding-left: 50px;
+    line-height: 55px;
+}
+
+.textTitle1 {
+    color: white;
+}
+
+.textTitle2 {
+    color: #f88181;
+    break-before: auto;
+}
+
+.subText {
+   padding-top: 20px;
+    font-size: 28px;
+    color: white;
+    line-height: 28px;
+    width: 70%;
+}
+
+.textTitleSub {
+    color: #f88181;
+    font-size: 20px;
+    font-weight: bold;
+}
+.textTitleSub2 {
+    color: #ffff;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.textTitleSub3 {
+    color: #ababab;
+    font-size: 20px;
+}
+
+.cardInfos {
+    background-color: #111827;
+    height: auto;
+    width: 75%;
+    border-radius: 20px;
+}
+
+.cardInfoTitle {
+    font-size: 20px;
+    color: #ffff;
+    padding-top: 8%;
+}
+
+.cardInfoDetails {
+    color: #ababab;
+    padding-top: 2%;
+    width: 60%;
+    margin: auto;
+    
 }
