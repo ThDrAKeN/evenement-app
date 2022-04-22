@@ -1,0 +1,51 @@
+
+.leadTitle {
+    color: #9097A3;
+    font-weight: bold;
+    text-align: left;
+}
+
+.footer {
+    padding: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+    justify-content: center;
+}
+
+.titleSubText {
+    color: #6B7280;
+    text-align: left;
+}
+.logoSubText {
+    color: #6B7280;
+    text-align: left;
+}
+
+.titleSubText:hover {
+    color: rgb(192, 101, 101);
+}
+.linkFooter {
+    line-height: 17px;
+    background-color: red;
+}
+
+.leadLogoTitle {
+    text-decoration: none;
+    color: #f56767;
+    font-size: 28px;
+    text-align: left;
+}
+
+.socialContainer {
+    align-items: center;
+    width: 60%;
+}
+
+.copyright {
+    color: #bd4e4e;
+}
+
+.copyrightSub {
+    margin-top: -10px;
+    color: #6B7280;
+}

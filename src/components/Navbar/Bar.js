@@ -11,7 +11,7 @@ class Bar extends Component {
                 <Navbar className={"Navbar"} expand="lg" fixed="top">
                     <Container>
                         <Navbar.Brand to={"/"}>
-                            <Link to={"/"} className={"linkBrand"}>WeekPaul</Link>
+                            <Link to={"/"} className={"linkBrand"}>voDispo</Link>
                         </Navbar.Brand>
                         <Navbar.Toggle aria-controls="basic-navbar-nav"/>
                         <Navbar.Collapse id="basic-navbar-nav">
