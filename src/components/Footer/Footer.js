@@ -95,7 +95,7 @@ class Footer extends Component {
                         </a>
                     </Col>
                 </Row>
-                <Row>
+                <Row className={"footerCR"}>
                     <Col md={12}>
                         <p className={"copyright"}>voDispo 2022 - Tous droits réservés</p>
                         <p className={"copyrightSub"}>Made with ❤ by Axel REGIMBAL</p>

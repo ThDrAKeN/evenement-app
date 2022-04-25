@@ -10,6 +10,12 @@
     padding-left: 5%;
     padding-right: 5%;
     justify-content: center;
+    background-color: #111827;
+    border-top: 1px solid #65656c;
+}
+
+.footerCR {
+    background-color: #111827;
 }
 
 .titleSubText {

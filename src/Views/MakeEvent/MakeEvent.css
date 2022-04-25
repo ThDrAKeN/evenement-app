@@ -1,0 +1,51 @@
+.ant-input {
+    border-radius: 8px !important;
+    background-color: #374151 !important;
+    border-color: #374151 !important;
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+    color: white !important;
+}
+
+.ant-input:focus {
+    border-color: #f88181 !important;
+    outline: 0;
+    -webkit-box-shadow: 0 0 0 2px rgba(246, 128, 128, 0.2);
+    box-shadow: 0 0 0 2px rgba(246, 128, 128, 0.2);
+}
+
+.ant-input:hover {
+    border-color: #f88181;
+    outline: 0;
+    -webkit-box-shadow: 0 0 0 2px rgba(246, 128, 128, 0.2);
+    box-shadow: 0 0 0 2px rgba(246, 128, 128, 0.2);
+}
+
+.btnValid {
+    border-radius: 7px !important;
+    background-color: #f88181 !important ;
+    border-color: #f88181 !important;
+}
+
+
+.btnValid:hover {
+    border-color: #f88181;
+    background-color: #d77070 !important ;
+    outline: 0;
+    -webkit-box-shadow: 0 0 0 2px rgba(246, 128, 128, 0.2);
+    box-shadow: 0 0 0 2px rgba(246, 128, 128, 0.2);
+}
+
+.btnValid:focus {
+    border-color: #f88181 !important;
+    outline: 0;
+    -webkit-box-shadow: 0 0 0 2px rgba(246, 128, 128, 0.2);
+    box-shadow: 0 0 0 2px rgba(246, 128, 128, 0.2);
+}
+
+
+.btnValid span {
+    font-weight: bold;
+}

@@ -17,7 +17,7 @@ class Bar extends Component {
                         <Navbar.Collapse id="basic-navbar-nav">
                             <Nav className="me-auto">
                                 <Nav.Link>
-                                    <Link to={"/"} className={"link"}>Créer un evenement</Link>
+                                    <Link to={"/newEvent"} className={"link"}>Créer un evenement</Link>
                                 </Nav.Link>
                             </Nav>
                         </Navbar.Collapse>
