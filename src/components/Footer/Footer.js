@@ -1,12 +1,12 @@
 import React, {Component} from 'react';
-import {Col, Row} from "react-bootstrap";
+import {Col, Row, Container} from "react-bootstrap";
 
 import './Footer.css';
 
 class Footer extends Component {
     render() {
         return (
-            <div>
+            <Container fluid>
                 <Row className={"footer"}>
                     <Col md={3}>
                         <p className={"leadLogoTitle"}>voDispo</p>
@@ -101,7 +101,7 @@ class Footer extends Component {
                         <p className={"copyrightSub"}>Made with ❤ by Axel REGIMBAL</p>
                     </Col>
                 </Row>
-            </div>
+            </Container>
         );
     }
 }
